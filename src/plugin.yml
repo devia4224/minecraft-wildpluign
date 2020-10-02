@@ -1,0 +1,11 @@
+name: wildplugin
+version: 0.1.3
+author: devia4224
+main: resources.main
+commands:
+  w:
+    description: commands(w)
+  me:
+    description: commands(me)
+  help:
+    description: commands(help)
